@@ -1,6 +1,6 @@
 ### Hi
-This GitHub accout is a collection of scripts I use on my loyal ThinkPad and probably other Stuff I want to share :)
-
+This GitHub accout is a collection of scripts I use on my loyal ThinkPad and probably other Stuff I want to share :grin:
+I hope I can give you some inspiration for scripts that work for your own custom problems :fountain:
 
 
 <!--
