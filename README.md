@@ -1,7 +1,5 @@
 ### Hi
-This GitHub accout is a collection of scripts I use on my loyal ThinkPad and probably other Stuff I want to share :grin:
-I hope I can give you some inspiration for scripts that work for your own custom problems :fountain:
-
+Please look at the collection of shit I wrote: 
 
 <!--
 **MrJulEnergy/MrJulEnergy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
