@@ -1,5 +1,5 @@
 ### Hi
-Please look at the collection of shit I wrote: 
+Yep, it's all here
 
 <!--
 **MrJulEnergy/MrJulEnergy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
